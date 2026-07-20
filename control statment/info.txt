@@ -1,0 +1,5 @@
+This statment is use to control the flow of the program......
+control statment include :--
+conditionl statment - if , else ,elif
+looping statment - for , while , do while , nested loop
+continous , break , return statment

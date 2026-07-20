@@ -1,0 +1,4 @@
+loop is use to repeate the task.....
+
+1. while loop - run until the certain condition is saticified
+2. for loop - run the task for a given time
